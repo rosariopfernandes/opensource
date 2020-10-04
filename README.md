@@ -1,32 +1,30 @@
-<h1 align="center">
-    MozDevz Open Source
-</h1>
-<p align="center">List of Open Source projects by Mozambican Developers</p>
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Getting Started
 
+First, run the development server:
 
-<p align="center">
-  <a href="#A">A</a> | <a href="#B">B</a> | <a href="#C">C</a> | <a href="#D">D</a> | <a href="#E">E</a> | <a href="#F">F</a> | <a href="#G">G</a> | <a href="#H">H</a> | <a href="#I">I</a> | <a href="#J">J</a> | <a href="#K">K</a> | <a href="#L">L</a> | <a href="#M">M</a> | <a href="#N">N</a> | <a href="#O">O</a> | <a href="#P">P</a> | <a href="#Q">Q</a> | <a href="#R">R</a> | <a href="#S">S</a> | <a href="#T">T</a> | <a href="#U">U</a> | <a href="#V">V</a> | <a href="#W">W</a> | <a href="#X">X</a> | <a href="#Y">Y</a> | <a href="#Z">Z</a>
-</p>
+```bash
+npm run dev
+# or
+yarn dev
+```
 
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## <a name="N"> </a>N
+You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-* [Nyandayeyo](https://github.com/Nelzio/Nyandayeyo) - Reports App **By [@Nelzio](https://github.com/Nelzio)**
+## Learn More
 
-## <a name="R"> </a>R
+To learn more about Next.js, take a look at the following resources:
 
-* [reaque](https://github.com/horaciocome1/reaque) - Repository for the Reaque android app. Reaque is a mobile tool where you can share and find stories from Mozambique. From thoughts and culture, through history and gastronomy, to tourism and even fashion, if it is something about Mozambique, you should share or find it in Reaque.
- **By [@horaciocome1](https://github.com/horaciocome1)**
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-## <a name="S"> </a>S
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-* [simple-recyclerview-adapter](https://github.com/horaciocome1/simple-recyclerview-adapter) - General purpose object that can be costumized to each case (item layout) by the time of creation. Similar to what is done on Listview with default adapters. Compatible with androidx.
- **By [@horaciocome1](https://github.com/horaciocome1)**
+## Deploy on Vercel
 
-* [simple-recyclerview-touch-listener](https://github.com/horaciocome1/simple-recyclerview-touch-listener) - An android library to simple handle user touch events over recyclerview.
- **By [@horaciocome1](https://github.com/horaciocome1)**
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-## <a name="T"> </a>T
-* [Tocha](https://github.com/rosariopfernandes/Tocha) - 🔥 Full-Text Search for Firebase Projects that use the Spark (Free) plan.
- **By [@rosariopfernandes](https://github.com/rosariopfernandes)**
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
